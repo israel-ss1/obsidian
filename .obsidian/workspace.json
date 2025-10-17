@@ -1,0 +1,232 @@
+{
+  "main": {
+    "id": "ad3d7602033acbe1",
+    "type": "split",
+    "children": [
+      {
+        "id": "1cdae7f82db3b3ac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bb715fc17388c95f",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "Untitled 1.base",
+                "viewName": "Table"
+              },
+              "icon": "lucide-table",
+              "title": "Untitled 1"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "799436b2e84b4d08",
+    "type": "split",
+    "children": [
+      {
+        "id": "e24d9bc639757c45",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "71c778555883e011",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "05502ae781e75e57",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "[\"aliases\"]",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "8946631f6ef19464",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b7cae1a377e86628",
+    "type": "split",
+    "children": [
+      {
+        "id": "c4d752972c983cf9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9b5acbf1c35be768",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "e4a63118c9a49dc4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "cacbde847d2a994e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "800bd307e986a1ec",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "ac84196cd0d347b2",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "bb715fc17388c95f",
+  "lastOpenFiles": [
+    "Untitled 1.base",
+    "Conceitos/Adoração.md",
+    "Porque um veleiro é uma real forma de vida autônoma..md",
+    "Untitled.base",
+    "Estudos/Gênesis 1.md",
+    "TI/Redes.md",
+    "TI/Segurança Cibernética.md",
+    "TI/Hack.md",
+    "TI/Criptografia.md",
+    "PF/Discursiva.md",
+    "PF/Criminalística/Princípios fundamentais da perícia criminalística.md",
+    "PF/Criminalística/Untitled.md",
+    "PF/Criminalística/Perícias Oficiais.md",
+    "PF/Criminalística/Local de Crime.md",
+    "PF/Criminalística/Lesões por arma de fogo.md",
+    "PF/Criminalística/Exame Perinecroscópico.md",
+    "PF/Criminalística/Balística Forense.md",
+    "Legislação.md",
+    "Cristofania.md",
+    "Pasted image 20250702210719.png",
+    "Pasted image 20250702201141.png",
+    "Pasted image 20250702201136.png",
+    "TI",
+    "Conceitos/Alma.md",
+    "Estudos/O Salmo 91.md",
+    "Estudos/Músicos na igreja.md",
+    "Estudos/Jesus.md",
+    "Estudos/Diabo.md",
+    "Estudos/Deus.md",
+    "Estudos/Batalha Espiritual.md",
+    "Estudos/A Tentação de Jesus.md",
+    "Pasted image 20250617203912.png",
+    "Pasted image 20250602223529.png",
+    "Pasted image 20250602191017.png",
+    "Pasted image 20250602190231.png",
+    "PF/Criminalística",
+    "PF",
+    "Música",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Referências/Novo Testamento",
+    "Referências/Antigo Testamento",
+    "Estudos/Pessoais",
+    "Estudos/Seminário",
+    "Estudos/EBD"
+  ]
+}
