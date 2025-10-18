@@ -11,8 +11,30 @@ Consciência é um conceito que pode ser entendido como ==a capacidade de perce
 - A consciência é a essência do ser humano
 - A consciência é a fonte de conhecimento e de verdade
 
-Para elaborar uma ideia de consciência, vou analisar condições observadas nos seres humanos.
+Para elaborar uma ideia de consciência, vou analisar condições observadas nos seres humanos, uma vez que ainda não é possível provar a existência de outros seres semelhantes a nós. 
 
+A primeiramente gostaria de fazer distinção entre consciência e outros aspectos inerentes aos seres humanos. A primeira delas é a inteligência. 
+
+A segunda é o é natureza criacionista, ou a capacidade de criar coisas a partir do que não é existente.
+
+### O ser humano tem a percepção do eu por si mesmo###
+
+O ser humano entende que é um ser único. Entende o EU, se identifica quando olha a sua imagem, mas antes disso, mesmo não vendo a própria imagem, sabe que ele é. Tendo esta percepção, consegue agir por si mesmo demonstrando desejos, vivenciando estados, tomando ações. 
+
+#### O teste do espelho ####
+
+Um experimento feito com animais revelam que alguns deles tem uma percepção do EU quando se olham no espelho. O Experimento consiste em colocar animais de frente ao espelho e observar suas reações. Pode-se observar que alguns deles demonstram reconhecer que ali, naquela imagem refletida, se trata dele próprio. Alguns testes vão além. Os animais são pintados enquanto dormem para observar se eles entendem de que aquela imagem se trata dele próprio, porém modificado ou pintado. Alguns animais se comportam agressivamente, acreditando se de tratar de outro animal rival, outros não dão atenção, por achar se tratar de um animal parecido do mesmo bando. É um teste que carece de mais embasamento para se chegar a uma conclusão real de consciência. 
+
+E o humano? qual a nossa reação quando nos olhamos no espelho? Primeiramente, nós entendemos o conceito de reflexo. Não sabemos somente que o projetado ali somos nós mas também que o que acontece é uma projeção do real. Um teste que talvez fosse relevante é um animal que se reconhece no espelho, ver a sua imagem agredia intencionalmente e não sair correndo. Outra percepção do humano no teste do espelho é que, mesmo fantasiado, ele sabe que aquele é ele próprio. Se colocarmos uma máscara e acordarmos na frente do espelho, entenderemos que o que está ali é reflexo e o mascarado é você.
+
+Uma outra forma de observarmos esta propriedade é quando vemos nossa imagem projetada por uma câmera com um fundo diferente. Uma projeção no espelho nos dá pistas que aquele somos nós porque também reflete o ambiente. Quando isso não acontece, ainda sim entendemos se tratar de nós mesmos.
+
+#### O teste da duplicata ####
+
+Um teste que o humano passa é saber que um sósia, uma duplicata ou um gêmeo, não é você próprio. Se vermos um vídeo fake ou gerado por IA. Em situações normais, a lembrança nos transporta para uma condição de certeza do que não vivemos aquele momento e por isso sabemos que não somos nós. Sabemos que somos únicos e não podemos estar em lugares diferentes no mesmo tempo. Teríamos essa percepção mesmo se fossemos cegos e nunca termos visto a nossa imagem.
+
+
+de animais na frente do espelho demonstram que alguns animas se reconhecem e alguns entende de se tratar de outro animal, se sentindo ameaçados ou demonstrando confusão. Porém eu refuto esta ideia porque mesmo identificado se tratar da imagem deles no espelho, não são capazes de agir por vontade própria para explorar esta natureza se estar numa classe mas ser um indivíduo único. Mesmo entendamos que esta indicação como sendo percepção do eu, penso que para chegar a dizer que ele possui consciência ele deva ter as outras características comentadas.
 ### O ser humano é capaz de ir contra sua própria natureza.###
 
 A natureza tende a sempre para a preservação e ao individualismo. Existe disputa por alimento, espaço, recursos. Se há alguma chance, se gasta energia para maximizar a possibilidade em detrimento dos demais, mesmo que esteja no mesmo bando e compartilhem as mesmas conquistas. Assim é o comportamento dos animais, vence o mais forte, o mais hábil, o que ser adapta. 
@@ -30,11 +52,7 @@ Diferente dos animais, nós sabemos que estamos nesta terra e vamos morrer. Por 
 Algumas pessoas argumentam que os animais pressentem a morte e se preparam para ela. Um dos exemplos seria a baleia que mergulha para o fundo para a morte. Acredito que seja melhor explicado que ela perde a força de voltar a superfície para respirar e antes de se afogar ela se desorienta nadando a esmo na tentativa de achar a superfície. Não creio que os cientistas tenham acompanhado muitas mortes de baleias para comprovar esta tese.
 
 
-### O ser humano tem a percepção do eu por si mesmo###
 
-O ser humano entende que é um ser único e exclusivo. Entende o EU, se identifica quando olha a sua imagem mas antes disso, mesmo não vendo a própria imagem, sabe que ele é. Tendo esta percepção, consegue agir por si mesmo demonstrando desejos, vivenciando estados, tomando ações. 
-
-Alguns biólogos vão argumentar que existem animais com esta condição e percepção do eu. Experimento de animais na frente do espelho demonstram que alguns animas se reconhecem e alguns entende de se tratar de outro animal, se sentindo ameaçados ou demonstrando confusão. Porém eu refuto esta ideia porque mesmo identificado se tratar da imagem deles no espelho, não são capazes de agir por vontade própria para explorar esta natureza se estar numa classe mas ser um indivíduo único. Mesmo entendamos que esta indicação como sendo percepção do eu, penso que para chegar a dizer que ele possui consciência ele deva ter as outras características comentadas.
 
 
 ### Tem a percepção do discernimento do certo e do errado. (espírito humano) ###
