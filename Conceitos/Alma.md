@@ -52,7 +52,7 @@ A emoção, definida com sendo uma resposta ao sentimento, teria sua origem na a
 Buscar ao Senhor com toda a Alma e com todo o coração - Dt 4.29, 6.5, 10.12, 11.13, 13.3, 26.16, 30.6,10
 ### A Alma como sede da consciência
 
-A dois tipos de [[consciência]] estudados pela filosofia: a percepção e a existencial. A percepção seria a que a neurociência fala muito, a condição mental de perceber o seu redor, de estar consciente ou inconsciente. A outra seria a existencial que no dá a certeza da vida, do propósito.
+A dois tipos de [[Consciência]] estudados pela filosofia: a percepção e a existencial. A percepção seria a que a neurociência fala muito, a condição mental de perceber o seu redor, de estar consciente ou inconsciente. A outra seria a existencial que no dá a certeza da vida, do propósito.
 
 No momento tenho elaborado um pensamento da possibilidade de uma delas estar na alma, que seria a percepção e a outra no espírito, que seria a existencial. Poderia também no espírito estar apenas alguns atributos que são necessários para que a alma busque a Deus.
 

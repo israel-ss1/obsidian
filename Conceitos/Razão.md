@@ -12,6 +12,6 @@ Quando, agindo de forma errada, perco a razão, se refere ao fato de ter tomado 
 
 Quando me pergunta, "qual a razão de ter feito algo", busca-se motivo para ter originado uma vontade.
 
-Acredito que a razão é uma das partes integrantes da [[Alma]], junto com a [[consciência]] e com a [[emoção]].
+Acredito que a razão é uma das partes integrantes da [[Alma]], junto com a [[Consciência]] e com a [[emoção]].
 
 A razão se opõe a emoção. Uma capacidade de decidir direcionado para a ética e para a moral, independente da vontade e da emoção. Existem emoções boa e emoções ruins. Através da consciência podemos julgar estas emoções baseados nessa capacidade analítica. 

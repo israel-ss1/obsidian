@@ -13,18 +13,25 @@
         "a": 1,
         "rgb": 11392604
       }
+    },
+    {
+      "query": "#Consciência",
+      "color": {
+        "a": 1,
+        "rgb": 15882759
+      }
     }
   ],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": 0.1,
-  "nodeSizeMultiplier": 1.60572916666667,
-  "lineSizeMultiplier": 1.19739583333333,
+  "textFadeMultiplier": -0.4,
+  "nodeSizeMultiplier": 1.83541666666667,
+  "lineSizeMultiplier": 1.01875,
   "collapse-forces": false,
-  "centerStrength": 0.109375,
-  "repelStrength": 15,
-  "linkStrength": 0.255208333333333,
-  "linkDistance": 407,
-  "scale": 0.04231590268975961,
-  "close": true
+  "centerStrength": 0,
+  "repelStrength": 15.9375,
+  "linkStrength": 0.333333333333333,
+  "linkDistance": 387,
+  "scale": 0.030182895067324904,
+  "close": false
 }
