@@ -1,6 +1,9 @@
 #Consciência
 
-[[_Consciência]]
+[[Consciência]]
+
+
+Capacidade de ir contra a própria natureza
 
 A natureza tende a sempre para a preservação e ao individualismo. Existe disputa por alimento, espaço, recursos. Se há alguma chance, se gasta energia para maximizar a possibilidade em detrimento dos demais, mesmo que esteja no mesmo bando e compartilhem as mesmas conquistas. Assim é o comportamento dos animais, vence o mais forte, o mais hábil, o que ser adapta. 
 
